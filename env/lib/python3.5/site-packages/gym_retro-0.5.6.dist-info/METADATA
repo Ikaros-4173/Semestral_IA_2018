@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: gym-retro
+Version: 0.5.6
+Summary: UNKNOWN
+Home-page: https://github.com/openai/retro
+Author: OpenAI
+Author-email: vickipfau@openai.com
+License: MIT
+Platform: UNKNOWN
+Requires-Dist: gym
+
+UNKNOWN
+
+
